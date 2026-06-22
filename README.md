@@ -1,4 +1,4 @@
-# Garni HTTP Driver for WeeWX
+# Garni driver for WeeWX
 
 This repository provides a stable, but still experimental, driver for several Garni weather stations and gateways.
 
