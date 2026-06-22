@@ -183,9 +183,10 @@ Expected response:
 
 The driver has been tested with:
 
-* Garni 3075 Arcus Pro Wi-Fi
-* Garni Lightning Sensor
-* Garni WBGT Sensor
+* Garni 3075 Arcus 2NG outdoor Sensors
+* Garni Lightning Sensor 072L
+* Garni Temperature Sensors 056H
+* Garni GTway Plus
 
 Other WSLink-compatible Garni stations may work as well.
 
